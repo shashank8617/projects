@@ -1,0 +1,118 @@
+
+*{
+    text-decoration: none;
+    position: relative;
+}
+#background{
+    height: 100vh;
+    width: 100vw;
+    background-image:url("../project/logo.png" );
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    opacity: 0.6 ;
+    background-color:black;
+}
+
+
+marquee{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: black;
+width: 100%;
+height: 70px;
+font-size: 50px;
+}
+
+.navbar{
+    background: crimson; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    padding-right: 15px; 
+    padding-left: 15px;
+    height: 10vh;
+    width: 100vw;
+    position: relative;
+    bottom: 110vh;
+}
+
+.navdiv{
+    /* display: flex; //row or column */
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a{
+    font-size: 15px;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+button{
+    padding-right: 500px;
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90px;
+}
+
+button a{
+    padding-left: 700px; 
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+img{
+    
+    padding: left;
+    height: 20px;
+    width: 20px; 
+}
+
+    
+    
+#cll{
+    background-color: black;
+    height: 840px;
+    width: 100%;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+.drinks{
+    height: 300px;
+    width: 500px;
+    position: relative;
+
+}
+
+.finance{
+    
+
+}
+#precars{
+
+}
+#pub{
+
+}
+#real{
+
+}
+
+hover
+trasation
+transform
+
