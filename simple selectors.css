@@ -1,0 +1,26 @@
+#para{
+    color: blue;
+}
+
+.test{
+    background-color: blueviolet;
+}
+
+b{
+    color: chartreuse;
+}
+h1{
+    background-color: rgb(156, 133, 133);
+    text-decoration-style: dotted;
+}
+i,h2,h4{
+    color: rgb(38, 76, 110);
+}
+b{
+    color: rgb(33, 143, 106);
+    background-color: bisque;
+}
+
+*{
+    background-color: rgb(125, 125, 3);
+}
